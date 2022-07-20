@@ -1,9 +1,9 @@
 {
   "private": true,
-  "displayName": "Benq projector W2700",
-  "name": "homebridge-plugin-benq-w2700",
+  "displayName": "Benq projector power switch",
+  "name": "homebridge-plugin-benq-power-switch",
   "version": "0.0.1",
-  "description": "Homebridge plugin for BenQ projectors W2700 via serial RS232",
+  "description": "Homebridge plugin for BenQ projectors power switch via serial RS232",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
