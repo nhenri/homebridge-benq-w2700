@@ -88,7 +88,7 @@ export class ExamplePlatformAccessory {
 
       this.platform.log.debug('Triggering motionSensorOneService:', motionDetected);
       this.platform.log.debug('Triggering motionSensorTwoService:', !motionDetected);
-    }, 10000);
+    }, 9000);
   }
 
   /**
